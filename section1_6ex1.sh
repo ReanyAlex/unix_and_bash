@@ -1,0 +1,1 @@
+echo 'Use "man echo"'
