@@ -1,4 +1,5 @@
-// ⌘T
+#
+# ⌘T
 echo 'hello'
 exit
-// or ^D
+# or ^D

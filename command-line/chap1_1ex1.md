@@ -1,29 +1,27 @@
-[~]$ cd ruby
-prompt -  [~]$
+[]$ cd ruby
+prompt - []$
 command- cd
 arguments- ruby
 
 [ruby]$ rm -f .DS_Store
-prompt-  [ruby]$
-command- rm
-options-  -f
+prompt- [ruby]$
+command- rm options- -f
 arguments- .DS_Store
 
-
 [ruby]$ ls -a
-prompt-  [ruby]$
+prompt- [ruby]$
 command- ls
-options-  -a
+options- -a
 
 [ruby]$ cd projects/
-prompt-  [ruby]$
+prompt- [ruby]$
 command- cd
 arguments- projects/
 
 [projects]$ pwdex
-prompt-  [projects]$
+prompt- [projects]$
 command- pwd
 
 [projects]$
-prompt-  [projects]$
-cursor- 
+prompt- [projects]$
+cursor-
