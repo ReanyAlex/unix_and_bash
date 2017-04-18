@@ -1,4 +1,7 @@
-# determine the file size in a more human friendly manner
-ls -lh
+#Using less and / (“slash”), find the sonnet that begins with the line “Let me not”.
+#Are there any other occurrences of this string in the Sonnets?
 
-#-rw-r--r--   1 alexreany  staff    93K Apr 18 11:41 sonnets.txt
+less sonnets.txt
+/“Let me not”
+
+#no occurrences
