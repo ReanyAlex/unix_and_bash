@@ -1,3 +1,4 @@
+#!/bin/sh
 #Writting the different ways to display a string
 echo hello, world
 echo "hello, world"

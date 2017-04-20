@@ -1,3 +1,5 @@
+#!/bin/bash
+
  #create a script which will take a filename as its
  #first argument and create a dated copy of the file.
 

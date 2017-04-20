@@ -1,3 +1,4 @@
+#!/bin/sh
 # print out just enough lines to display the first sonnet in its entirety
 
 man head

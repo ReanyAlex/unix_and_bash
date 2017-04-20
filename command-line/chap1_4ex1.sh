@@ -1,3 +1,4 @@
+#!/bin/sh
 #Using shortcuts to make changes more effectively
 echo fee
 #↑

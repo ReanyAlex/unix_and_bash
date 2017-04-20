@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #To make it a bit harder, see if you can get it so
 #that the date if after the name of the file
 

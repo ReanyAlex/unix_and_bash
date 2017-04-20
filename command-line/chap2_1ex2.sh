@@ -1,3 +1,4 @@
+#!/bin/sh
 
 #created a new text file to hold the first line of the sonnet.
 #Then appended the second line of the sonnet onto the file

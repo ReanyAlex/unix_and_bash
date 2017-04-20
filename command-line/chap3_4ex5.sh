@@ -1,3 +1,4 @@
+#!/bin/sh
 #Write a command confirming that the number of lines matching
 #“Rose” but not matching “rose” is equal to the expected 2
 

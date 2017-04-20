@@ -1,3 +1,6 @@
+#!/bin/sh
+
+
 echo $1
 read NAME
 

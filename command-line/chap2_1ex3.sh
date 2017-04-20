@@ -1,3 +1,4 @@
+#!/bin/sh
 #concat the two txt files in reverse order using multiple arguments
 
 cat line_2.txt line_1.txt > sonnet_1_reversed.txt

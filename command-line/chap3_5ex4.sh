@@ -1,3 +1,4 @@
+#!/bin/sh
 # Use the result from the previous exercise to
 #re-run the last occurrence of curl.
 

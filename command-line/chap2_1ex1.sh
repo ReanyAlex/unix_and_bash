@@ -1,3 +1,4 @@
+#!/bin/sh
 #created two new text files from stings using the redirect operator.
 #Ensured files were created correctly with cat
 echo "From fairest creatures we desire increase," > line_1.txt
