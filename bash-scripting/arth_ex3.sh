@@ -1,3 +1,5 @@
+#!/bin/sh
+
 #write a script which will use this variable and some arithmetic
 #to return a random number between 0 and 100.
 

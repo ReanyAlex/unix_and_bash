@@ -1,3 +1,4 @@
+#!/bin/sh
 # create a file with a large amount of text pasted in and check to ensure file contains information
 
 echo "FRom faireſt creatures we deſire increaſe,

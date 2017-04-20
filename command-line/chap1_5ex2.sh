@@ -1,3 +1,5 @@
+#!/bin/sh
+
 #
 # ⌘T
 echo 'hello'

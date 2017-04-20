@@ -1,3 +1,4 @@
+#!/bin/sh
 #Execute a command confirming that both of the lines
 #contain the string “Rose” (and not, e.g., “rOSe”).
 

@@ -1,3 +1,4 @@
+#!/bin/sh
 What do the O and L options in Listing 10 mean?
 
 curl -h | less

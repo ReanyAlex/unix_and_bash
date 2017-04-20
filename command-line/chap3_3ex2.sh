@@ -1,3 +1,4 @@
+#!/bin/sh
 #Search for the string “All” (case-sensitive).
 less sonnets.txt
 #search through document ^F
