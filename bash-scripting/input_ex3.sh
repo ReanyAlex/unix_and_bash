@@ -11,6 +11,8 @@
 
 echo Here is the third line:
 
-cat list.txt | cut -d' ' -f 3
+cat /dev/stdin | sed -n "3 p"
 
 #Whale
+
+#when calling the function use cat list.txt | ./input_ex3.sh
