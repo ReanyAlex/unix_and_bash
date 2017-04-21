@@ -8,6 +8,4 @@ DATE="$(date +%Y_%m_%d)"
 cd /Users/alexreany/desktop/test/
 NAME=$(sed 's/[\.\/]//g' <<< $0)
 NAMEFINAL=$(basename $NAME sh)
-touch "$DATE$NAMEFINAL.sh"
-
-echo "$NAME"
+cp /Users/alexreany/Desktop/unix_and_bash/bash-scripting/var_ex5.sh "$DATE$NAMEFINAL.sh"

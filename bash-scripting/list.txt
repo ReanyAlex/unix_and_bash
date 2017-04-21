@@ -1,1 +1,4 @@
-Cat Dog Whale Rat
+Cat
+Dog
+Whale
+Rat
