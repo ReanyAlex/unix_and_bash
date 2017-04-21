@@ -1,6 +1,5 @@
-#!/bin/sh
-#echo $1
-#echo $2
+#!/bin/bash
+
 let "base=$2-$1"
 let "divide=32767/$base"
 

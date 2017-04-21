@@ -5,4 +5,11 @@
 #so that a lower limit can be specified also
 
 
-./random.sh 10 137
+./random.sh $1 $2
+
+
+#./random.sh
+#let "base=$2-$1"
+#let "divide=32767/$base"
+
+#expr $RANDOM / $divide + $1
